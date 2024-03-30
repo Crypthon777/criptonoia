@@ -11,6 +11,16 @@ Cryptonoia is a nascent project aimed at diving into the development within the 
 ## Technologies and Tools
 As an initial project, all technologies, languages, and tools will be thoroughly researched and decided collectively by collaborators, ensuring transparency and maintaining the project's original focus.
 
+## Project Structure
+Cryptonoia is organized into several key directories:
+
+- `/docs`: Contains all project documentation, including this README.
+- `/projects`: Home to all sub-projects under Cryptonoia, including:
+  - `/token`: Contains the projects focused on token development within the Solana ecosystem. Inside this directory, you'll find:
+    - `/cryptonoia_token`: The first token project of Cryptonoia, focusing on the development of a unique Solana-based cryptocurrency token. This folder contains all relevant smart contracts, documentation, and other resources related to the Cryptonoia token.
+- `/website`: Contains the files for the project's website.
+
+
 ## How to Contribute
 Everyone is welcome to join the Cryptonoia project, and any form of contribution is appreciated. Whether you are interested in Solana, blockchain development, or wish to contribute in any way, your involvement is valued.
 
